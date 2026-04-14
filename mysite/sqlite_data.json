@@ -1,0 +1,434 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$oUeJpOP4K6sDCMlMp7EBHP$4BBsZWkA1ETlY18sy5jXU4Z7LHLTiKkOZQmp4UY2wzg=",
+    "last_login": "2026-03-23T09:52:44.650Z",
+    "is_superuser": true,
+    "username": "loki24E119D37",
+    "first_name": "",
+    "last_name": "",
+    "email": "sumitshaw@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-02-23T10:20:11.641Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$cm6ISHnMkGNRj7QXaz1yMD$CkRp0SOyzioGDK0Vlu9oZIrlYN5zAqi2eA6RuiJeBCY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user001",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-02-24T05:56:18.514Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$bzveUsBTni1EZY5f9ScB4g$pHSXYLrz/nv9LotmlV/r3lkcTslNHB584QM5qp3LrDc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user002",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-02-24T06:00:34.112Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$jbhvNnNK5oo5B9tV3s7PBn$+XUmyvTmPejDQYGV0P63M3JS6AHWWSASdX9NIo3eo64=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user003",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-02-24T06:05:56.717Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8b7ikymwba0jv6sk9du8vv1ddgesfume",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RAWpIBH776B7MJWqgaS0p6MfzckPeh1ZjJvEXHfStw7r3HJ4iJAnH4ZYXpyHSI_sN6bTK1u60JyJPKwXd5a5tf1aP8GBXsZW3tGHxI648iATV6ZSYPXmSgDA3mL84xBOTRIis3EGlwKbA3ooAOLzxfVODeT:1w25SX:JTqAsUco9YzcxHsRR5WQVMPcgByfqlRfamxIViQmR2E",
+    "expire_date": "2026-03-30T10:46:05.531Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8e2ltcnkkdlbt5n2m2cbxvt9oc0w5zke",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2pBOgQIu3XsGMp1hpGpKUtqV8e7apAvd_vfef6mE21rS1vKSJlZnBer0u41IjzzvgO8436qmOq_LNOpd0Qdt-lo5Py-H-3dQsJVvjcGQscID5I6CRBC0PnLvopXQBw9DLxKpk8zsgoUAhtl6IQEPhE69P-inOBw:1w4bxk:KjAGx9Rt1x50baCyffTvL_BFB2ZCwpbxHkDE1S-9DVc",
+    "expire_date": "2026-04-06T09:52:44.664Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "968aime29b0ba9puvzcun6nobssjjwug",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBGBKYu3XuGZmAGqRpISrsy3l2bdKHb_977LzXSupRx7TKPE6uzAnX43SKlh9QN8J3qrenU6jJPUW-K3mnX18byvOzu30GhXr51NHEAwpAlWE8WDQRymK2YIUJyjMbDibIHxpwyWCE-kjcmgaBzFtX7A-FqN8c:1w3otl:6MZp-EI7EfsoPxav9ypZoRy2dsMSeNkkA9SXiGAlQZA",
+    "expire_date": "2026-04-04T05:29:21.199Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "gv59n5ddxzjq4embz9ls4elk13d42zd8",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RAWpIBH776B7MJWqgaS0p6MfzckPeh1ZjJvEXHfStw7r3HJ4iJAnH4ZYXpyHSI_sN6bTK1u60JyJPKwXd5a5tf1aP8GBXsZW3tGHxI648iATV6ZSYPXmSgDA3mL84xBOTRIis3EGlwKbA3ooAOLzxfVODeT:1vuT7l:F63XB8wAc7vk-KxCjW_ntIwv5Qr1YJ57bAn1sXg90AA",
+    "expire_date": "2026-03-09T10:25:09.157Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "inntgnt1wq7g7zn3twkfrc16j3qpoezp",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQAP-FsyHl2eLRe7-B7LKLVA1NSnsy_rsh6UGvM5N5iwjHXuLReIsLiatQ4vLLENKTaxf0gHpfZVrrvi0oeyJP2-S8Er9uZ_s3KNBK33KwKo8UzKjRKFbG54kUAQ-eKIAmOyXvvDVIhrwDrSwCDJwRyRkvPl_kmThT:1w4bxj:pgLk8bCQRDLD2nxTRFYIVLGKTA3CzVeymd8_-Haqm5o",
+    "expire_date": "2026-04-06T09:52:43.000Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "pw1504nu5za0jule7is6ey7z2ig3lvid",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RAWpIBH776B7MJWqgaS0p6MfzckPeh1ZjJvEXHfStw7r3HJ4iJAnH4ZYXpyHSI_sN6bTK1u60JyJPKwXd5a5tf1aP8GBXsZW3tGHxI648iATV6ZSYPXmSgDA3mL84xBOTRIis3EGlwKbA3ooAOLzxfVODeT:1vuUg7:D5Nlx9ZOutaE8qOSeVIInQxxbEviPPPSuZ9LEPzK8E0",
+    "expire_date": "2026-03-09T12:04:43.598Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "trs079f5x1vlxyg8t6uws466w5riur9e",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RAWpIBH776B7MJWqgaS0p6MfzckPeh1ZjJvEXHfStw7r3HJ4iJAnH4ZYXpyHSI_sN6bTK1u60JyJPKwXd5a5tf1aP8GBXsZW3tGHxI648iATV6ZSYPXmSgDA3mL84xBOTRIis3EGlwKbA3ooAOLzxfVODeT:1vyiNp:4-oMUtcgrnIDeKJVdlegxc8Z4yigIr1kQDzbm_y44Xk",
+    "expire_date": "2026-03-21T03:31:17.000Z"
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "Genesis",
+    "slug": "genesis"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "college",
+    "slug": "college"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 12,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 17,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 13
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 18,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 13
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 20,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 14
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Author Post",
+    "slug": "author-post",
+    "author": 1,
+    "body": "This is an author post!",
+    "publish": "2026-02-23T11:49:02Z",
+    "created": "2026-02-23T11:49:12.028Z",
+    "updated": "2026-03-23T10:24:47.494Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "One More Post",
+    "slug": "one-more-post",
+    "author": 1,
+    "body": "This is post body!",
+    "publish": "2026-02-23T12:03:02Z",
+    "created": "2026-02-23T12:03:02.119Z",
+    "updated": "2026-03-16T12:13:04.474Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Another Created Post",
+    "slug": "another-created-post",
+    "author": 1,
+    "body": "This is another created post!",
+    "publish": "2026-02-23T12:14:00Z",
+    "created": "2026-02-23T12:14:00.607Z",
+    "updated": "2026-03-23T10:20:50.099Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "User Post 1",
+    "slug": "user-post-1",
+    "author": 2,
+    "body": "The post is published by user001!",
+    "publish": "2026-02-24T05:53:21Z",
+    "created": "2026-02-24T05:56:41.385Z",
+    "updated": "2026-03-16T12:13:13.706Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "User Post 2",
+    "slug": "the-post-2",
+    "author": 3,
+    "body": "The post is published by user002!",
+    "publish": "2026-02-24T05:58:30Z",
+    "created": "2026-02-24T06:03:10.432Z",
+    "updated": "2026-03-23T10:24:42.462Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "User Post 3",
+    "slug": "user-post-3",
+    "author": 4,
+    "body": "The post is published by user003!",
+    "publish": "2026-02-24T06:03:43Z",
+    "created": "2026-02-24T06:06:11.069Z",
+    "updated": "2026-03-16T12:13:21.369Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "My Post",
+    "slug": "my-post",
+    "author": 1,
+    "body": "This post is published by admin - loki24E119D37!",
+    "publish": "2026-02-24T06:34:10Z",
+    "created": "2026-02-24T06:34:23.261Z",
+    "updated": "2026-03-16T12:13:25.378Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 12,
+  "fields": {
+    "title": "Dry Post",
+    "slug": "dry-post",
+    "author": 1,
+    "body": "A dry post for rough works!",
+    "publish": "2026-03-07T03:32:45Z",
+    "created": "2026-03-07T03:33:21.527Z",
+    "updated": "2026-03-16T12:13:35.786Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 13,
+  "fields": {
+    "title": "Public User",
+    "slug": "public-user",
+    "author": 1,
+    "body": "This post is for public's daily use!",
+    "publish": "2026-03-07T03:35:12Z",
+    "created": "2026-03-07T03:36:37.328Z",
+    "updated": "2026-03-23T10:24:23.858Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 14,
+  "fields": {
+    "title": "MarkedDown",
+    "slug": "markeddown",
+    "author": 2,
+    "body": "# React + Vite\r\n\r\nThis template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.\r\n\r\nCurrently, two official plugins are available:\r\n\r\n- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)\r\n- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)\r\n\r\n## React Compiler\r\n\r\nThe React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).\r\n\r\n## Expanding the ESLint configuration\r\n\r\nIf you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.",
+    "publish": "2026-03-30T10:59:31Z",
+    "created": "2026-03-30T11:01:57.489Z",
+    "updated": "2026-03-30T12:04:46.009Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 10,
+    "name": "Sumit Shaw",
+    "email": "sumitshawsurvival06@gmail.com",
+    "body": "This comment was sent by the ADMIN \"loki24E119D37\"!",
+    "created": "2026-03-16T10:50:17.772Z",
+    "updated": "2026-03-16T10:50:17.772Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 10,
+    "name": "Shubham",
+    "email": "vivek@bhumicare.com",
+    "body": "This is a test comment",
+    "created": "2026-03-24T05:55:28.757Z",
+    "updated": "2026-03-24T05:55:28.758Z",
+    "active": true
+  }
+}
+]
